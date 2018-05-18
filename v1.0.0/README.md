@@ -45,9 +45,10 @@ Add water until it reaches 13 liters
 
 Add the yeast.
 
+Let ferment for 14 days
+
 #### Dry hop
 After ten days. Add the remainding 20g mosaic.
-
 
 
 

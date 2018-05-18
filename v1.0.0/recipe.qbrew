@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE recipe>
 <recipe application="qbrew" version="0.4.1">
-  <title>tzbeer v1.0.0</title>
-  <brewer>team</brewer>
+  <title></title>
+  <brewer></brewer>
   <style>Generic Ale</style>
-  <batch quantity="13.00 L"/>
-  <grains>
-    <grain quantity="0.25 kg" extract="1.034" color="48" type="Grain" use="Mashed">CaraMunich 2 48L</grain>
-    <grain quantity="1.50 kg" extract="1.045" color="7.5" type="Extract" use="Extract">Light D.M.E.</grain>
-  </grains>
-  <hops>
-    <hop quantity="5.00 g" alpha="15.4" time="60" type="Pellet">Columbus</hop>
-    <hop quantity="10.00 g" alpha="15.4" time="30" type="Pellet">Columbus</hop>
-    <hop quantity="10.00 g" alpha="12" time="15" type="Pellet">Mosaic</hop>
-    <hop quantity="20.00 g" alpha="12" time="0" type="Pellet">Mosaic (dry hop)</hop>
-    <hop quantity="10.00 g" alpha="12" time="5" type="Pellet">Mosiac</hop>
-  </hops>
-  <miscingredients>
-    <miscingredient quantity="6.00 unit" type="Yeast" notes="6 gram">Dry Ale Yeast </miscingredient>
-  </miscingredients>
+  <batch quantity="5.00 L"/>
+  <notes class="recipe">Fermentation 2week
+Dry hop after 10 days
+on bottle 2 weeks</notes>
+  <grains/>
+  <hops/>
+  <miscingredients/>
 </recipe>
