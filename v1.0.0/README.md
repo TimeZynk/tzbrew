@@ -41,10 +41,13 @@ Cool down to 40°C using ice block.
 #### Fermentation
 Pour the wort into the fermentation container.
 
-Add XX liters of water.
+Add water until it reaches 13 liters
 
 Add the yeast.
+
 #### Dry hop
+After ten days. Add the remainding 20g mosaic.
+
 
 
 
