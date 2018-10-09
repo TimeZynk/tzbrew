@@ -53,7 +53,7 @@ Add the yeast.
 Let ferment for 14 days
 
 #### Dry hop
-After three days. Add the remainding 20g mosaic.
+After three days. Add the remainding 30g mosaic.
 
 
 
