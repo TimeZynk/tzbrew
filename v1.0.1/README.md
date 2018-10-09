@@ -10,15 +10,15 @@
 | Vol   | 12 L   |
 
 ### Ingredients
-**Malt**
+**Malt**  
 Caramunich 2 48L 300g  
 Light D.M.E 1500g  
 
-**Hops**
+**Hops**  
 Columbus 15g  
 Mosaic 55g  
 
-**Yeast**
+**Yeast**  
 American dry Ale Yeast 6g
 
 ### Instructions
