@@ -3,24 +3,26 @@
 ## APA
 
 ### Receipe estimates
-IBU 46
+IBU 56
 Color 11°
-Alc 4,6%
+Alc 5.1%
 
 ### Ingredients
-Caramunich 2 48L 250g
+Caramunich 2 48L 300g
 Light D.M.E 1500g
 
 Columbus 15g
-Mosaic 40g
+Mosaic 55g
 
-[German] Dry Ale Yeast 6g
+American dry Ale Yeast 6g
 
 ### Instructions
 
 #### Mash (mäsk)
 
-Put the CaraMunicher malt in 70°C water. Leave for 60min.
+Put the CaraMunicher malt in 70°C water (900g). Leave for 60min.
+Amount of water = malt weight * 3;
+
 
 #### ??? (laka)
 
@@ -30,9 +32,12 @@ Wisk the spray malt into the mash.
 
 #### Wort - 60min boil time
 0min - 5g Columbus
-30min - 10g Columbus
+15min - 5g Columbus
+30min - 5g Columbus
 45min - 10g Mosaic
-55min - 10g Mosaic
+50min - 5g Mosaic
+55min - 5g Mosaic
+60min - done
 
 Then boil for another 5 min.
 
@@ -41,7 +46,7 @@ Cool down to 40°C using ice block.
 #### Fermentation
 Pour the wort into the fermentation container.
 
-Add water until it reaches 13 liters
+Add water until it reaches 12 liters
 
 Add the yeast.
 
