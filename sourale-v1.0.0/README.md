@@ -58,4 +58,4 @@ Boil and add hops according to the table below.
 Note: ice block maybe not necessary. Not sure.
 
 ##### Dry hop
-After six days. Add the remainding 30g mosaic.
+After three days. Add the remainding 30g mosaic.
