@@ -1,25 +1,25 @@
-# TzBrew v1.0.1 - APAish
+# TzBrew v1.0.0 - Sour Ale
 
 ### Receipe estimates
 
 | Key   | Value  |
 |-------|--------|
-| IBU   | 56     |
-| Color | 11°    |
-| Alc   | 5.1%   |
+| IBU   | 16     |
+| Color | 12°    |
+| Alc   | 3.9%   |
 | Vol   | 12 L   |
 
 ### Ingredients
 **Malt**  
-Caramunich 2 48L 300g  
+Caramunich 2 48L 250g  
 Light D.M.E 1500g  
 
 **Hops**  
-Columbus 15g  
 Mosaic 55g  
 
 **Yeast**  
-American dry Ale Yeast 6g
+American dry Ale Yeast 6g  
+Apricot Pure 1kg
 
 ### Instructions
 
