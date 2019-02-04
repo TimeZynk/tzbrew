@@ -19,14 +19,26 @@ Mosaic 55g
 
 **Yeast**  
 American dry Ale Yeast 6g  
+
+**Other**  
 Apricot Pure 1kg
+Apple 35g
+Water 140g
+Salt (jodfree) 4g
 
 ### Instructions
+
+##### lactic bacteria
+
+One week before, make lactic bacteria. Apple, water, and salt.
 
 ##### Mash (mäsk)
 
 Put the CaraMunicher malt in 70°C water (900g). Leave for 60min.
 Amount of water = malt weight * 3;
+
+##### Fermentation
+Use Lactic bacteria
 
 
 ##### ??? (laka)
