@@ -71,3 +71,7 @@ Note: ice block maybe not necessary. Not sure.
 
 ##### Dry hop
 After three days. Add the remainding 30g mosaic. And add apricot pure.
+
+
+##### Bottling
+Used brewers friends calculator. Beer volume was 9l. Used 1DL suger per 10L beer.
