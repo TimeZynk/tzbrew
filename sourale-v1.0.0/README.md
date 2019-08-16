@@ -10,28 +10,31 @@
 | Vol   | 10 L   |
 
 ### Ingredients
-**Malt**  
-Caramunich 2 48L 250g  
-Light D.M.E 1500g  
+**Malt**
+Caramunich 2 48L 250g
+Light D.M.E 1500g
 
-**Hops**  
-Columbus 10g  
-Mosaic 55g  
+**Hops**
+Columbus 10g
+Mosaic 55g
 
-**Yeast**  
-American dry Ale Yeast 6g  
+**Yeast**
+American dry Ale Yeast 6g
 
-**Other**  
+**Other**
 Apricot Pure 1kg
-Apple 35g
-Water 140g
-Salt (jodfree) 4g
+
 
 ### Instructions
 
 ##### lactic bacteria
 
-One week before, make lactic bacteria. Apple, water, malt, and salt.
+One week before, grow lactic bacteria.
+- Apple 35g
+- Malt 35g
+- Water 140g
+- Salt (without iodine) 4g
+Put in sealed jar with and let it ferment until bubbles slow down.
 
 ##### Mash (mäsk)
 
