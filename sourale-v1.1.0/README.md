@@ -1,4 +1,3 @@
-
 # TzBrew v1.0.0 - Sour Ale
 
 ### Receipe estimates
@@ -11,31 +10,27 @@
 | Vol   | 10 L   |
 
 ### Ingredients
-**Malt**
-Caramunich 2 48L 250g
-Light D.M.E 1500g
+**Malt**  
+Caramunich 2 48L 250g  
+Light D.M.E 1500g  
 
-**Hops**
-Columbus 10g
-Mosaic 55g
+**Hops**  
+Columbus 10g  
+Mosaic 55g  
 
-**Yeast**
-American dry Ale Yeast 6g
+**Yeast**  
+American dry Ale Yeast 6g  
 
-**Other**
-Apricot Pure 1kg
-
+**Other**  
+Apple 35g
+Water 140g
+Salt (jodfree) 4g
 
 ### Instructions
 
 ##### lactic bacteria
 
-One week before, grow lactic bacteria.
-- Apple 35g
-- Malt 35g
-- Water 140g
-- Salt (without iodine) 4g
-Put in sealed jar with and let it ferment until bubbles slow down.
+One week before, make lactic bacteria. Apple, water, malt, and salt.
 
 ##### Mash (mäsk)
 
@@ -44,11 +39,12 @@ Amount of water = malt weight * 3;
 
 ##### ??? (laka)
 
-Add 3,4 liters of water (~70°C) (ended up with vol 5L). Rinse throught the malt.
+Add 3,4 liters of water (~70°C). Rinse throught the malt.
 
 Wisk the spray malt into the mash.
 
-Add ice block, and wait until temperature reaches 40°C.
+Add ice block until temprature reaches 40°C.
+
 
 ##### Fermentation #1
 Use Lactic bacteria
@@ -76,8 +72,8 @@ Boil and add hops according to the table below.
 Note: ice block maybe not necessary. Not sure.
 
 ##### Dry hop
-After three days. Add the remaining 30g mosaic. And add apricot pure.
+After three days. Add the remainding 30g mosaic. And add apricot pure.
 
 
 ##### Bottling
-Used [brewers friends calculator](https://www.brewersfriend.com/beer-priming-calculator/). Beer volume was 9l. Used 1DL suger per 10L beer.
+Used brewers friends calculator. Beer volume was 9l. Used 1DL suger per 10L beer.
